@@ -1,0 +1,19 @@
+<annotation verified="no">
+  <folder>demo</folder>
+  <filename>E:/scripts/labelme/labelme/labelMe/github/demo/frame_26376</filename>
+  <path>E:/scripts/labelme/labelme/labelMe/github/demo/frame_26376.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name/>
+    <index>E:/scripts/labelme/labelme/labelMe/github/demo/frame_26376_index.bmp</index>
+    <category>E:/scripts/labelme/labelme/labelMe/github/demo/frame_26376_category.bmp</category>
+    <color/>
+  </object>
+</annotation>
